@@ -22,5 +22,8 @@ w.w.w.w.<br/>
 
 The program outputs an output.txt file with the next chosen move using the following notation:<br/>
 
-E FROM_POS TO_POS - The agent moves a piece from location FROM_POS to an adjacent diagonal empty location TO_POS.<br/>
-J FROM_POS TO_POS - The agent moves a piece from location FROM_POS to empty location TO_POS by jumping over a piece in between.<br/>
+E FROM_POS TO_POS<br/>
+The agent moves a piece from location FROM_POS to an adjacent diagonal empty location TO_POS.<br/>
+
+J FROM_POS TO_POS<br/> 
+The agent moves a piece from location FROM_POS to empty location TO_POS by jumping over a piece in between.<br/>
